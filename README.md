@@ -6,6 +6,7 @@ It is a collaborative effort of the [Research Software Engineering (RSE) Group](
 
 
 ## Contact
-Ian A. Cosden 
-Princeton University
+Ian A. Cosden <br>
+Princeton University <br> 
 icosden@princeton.edu
+
